@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @i3c
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PowerShell administration
 - 📫 How to reach me (PM)
 
 <!---
